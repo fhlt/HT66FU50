@@ -1,0 +1,26 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Two.PrjPCB|ReportField=ProjectFullPath~E:\Temp Files\16-Holtek\HT66FU50\PCB_Two.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Two.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~30|ReportField=ReportTime~18:47:33|ReportField=ReportDate~2016/5/1|ReportField=ReportDateTime~2016/5/1 18:47:33|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/5/1|ReportField=CurrentTime~18:46:15|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Temp Files\16-Holtek\HT66FU50\SCH_Two.SchDoc|ReportField=DocumentName~SCH_Two.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/4/24|ReportField=Organization~|ReportField=ProjectName~PCB_Two.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Two.PrjPCB|ReportField=DataSourceFullPath~E:\Temp Files\16-Holtek\HT66FU50\PCB_Two.PrjPCB
+1|BATTERY_1|Battery|BT1|AAA Battery|BATTERY_1|1
+2|4.7uF||C1, C2|0805|CAP1|2
+3|Cap|无极性电容|C3|0603|Cap|1
+4|104||C4, C5|0603|CAP1|2
+5|CAP_1|Capacitor|C6, C7|0603|CAP_1|2
+6|Red|LED灯|D1|0603|LED|1
+7|Green|LED灯|D2|0603|LED|1
+8|MricoUSB||JP1|MircoUSB|HEADER 5|1
+9|H1||JP2|A3144|HEADER 3|1
+10|H2||JP3|A3144|HEADER 3|1
+11|LCD||JP4|LCD1621|HEADER 12|1
+12|ESP||JP5|ESP8266-11|HEADER 8|1
+13|ISP||JP6|SIP4|HEADER 4|1
+14|RST|key|K1|KEY-SMT|SW-PB_1|1
+15|Awake|key|K2|KEY-SMT|SW-PB_1|1
+16|SPEAKER||LS1|Buzzer-Small|SPEAKER|1
+17|PNP|PNP Transistor|Q1|SOT-23|PNP|1
+18|330|电阻, Resistor, Resistor|R1, R6, R7|0603|Res2|3
+19|1K|电阻|R2|0603|Res2|1
+20|3.3K|电阻|R3|0603|Res2|1
+21|Res1|贴片电阻|R4|0603|Res1|1
+22|100|电阻|R5|0603|Res2|1
+23|10K|Resistor|R8|0603|RES2|1
+24|CN3058||U1|SO-8|CN3058|1
+25|HT66FU50||U2|LQFP44|HT66FU50|1
